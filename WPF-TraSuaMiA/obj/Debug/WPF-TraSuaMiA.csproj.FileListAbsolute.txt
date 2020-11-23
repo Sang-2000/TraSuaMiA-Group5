@@ -1,0 +1,16 @@
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\bin\Debug\WPF-TraSuaMiA.exe.config
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\bin\Debug\WPF-TraSuaMiA.exe
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\bin\Debug\WPF-TraSuaMiA.pdb
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF-TraSuaMiA.csprojAssemblyReference.cache
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF_TraSuaMiA.Form_Background.resources
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF_TraSuaMiA.Form_Login.resources
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF_TraSuaMiA.Properties.Resources.resources
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF-TraSuaMiA.csproj.GenerateResource.cache
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF-TraSuaMiA.csproj.CoreCompileInputs.cache
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF-TraSuaMiA.exe
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF-TraSuaMiA.pdb
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF_TraSuaMiA.Form_Sell.resources
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF_TraSuaMiA.Form_Admin.resources
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF_TraSuaMiA.Form_Demo.resources
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF_TraSuaMiA.Form_Menu.resources
+C:\Users\ASUS-2000\source\repos\WPF-TraSuaMiA\WPF-TraSuaMiA\obj\Debug\WPF_TraSuaMiA.Form_Warehouse.resources
